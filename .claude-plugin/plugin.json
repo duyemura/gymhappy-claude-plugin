@@ -1,0 +1,18 @@
+{
+  "name": "gymhappy",
+  "displayName": "GymHappy",
+  "version": "0.1.0",
+  "description": "For PushPress gyms on Grow Pro. Analyze gym reviews, coach performance and member engagement, check your GymHappy setup, and manage supported gym, messaging, coach and member settings.",
+  "author": {
+    "name": "PushPress",
+    "url": "https://www.pushpress.com"
+  },
+  "homepage": "https://gymhappy.co/",
+  "license": "MIT",
+  "keywords": ["gym", "fitness", "reviews", "member-engagement", "pushpress", "reputation"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://app.gymhappy.co/connect",
+  "supportUrl": "https://app.gymhappy.co/support",
+  "privacyPolicyUrl": "https://app.gymhappy.co/privacy-policy",
+  "termsOfServiceUrl": "https://app.gymhappy.co/terms-of-service"
+}

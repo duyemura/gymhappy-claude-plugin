@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gymhappy": {
+      "type": "http",
+      "url": "https://app.gymhappy.co/mcp/tenant"
+    }
+  }
+}
